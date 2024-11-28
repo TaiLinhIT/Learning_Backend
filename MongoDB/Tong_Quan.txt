@@ -1,0 +1,10 @@
+NoSQL là gì và khi nào nên sử dụng?
+NoSQL (Not Only SQL) là loại cơ sở dữ liệu không sử dụng bảng và quan hệ như SQL mà dùng các cấu trúc khác như Document, Key-Value, Graph, hoặc Column-family.
+Ưu điểm:
+Linh hoạt, dễ mở rộng (scalable).
+Hiệu suất cao cho dữ liệu phi cấu trúc.
+Lưu trữ được khối lượng lớn dữ liệu.
+Sử dụng khi:
+Cần xử lý dữ liệu phi cấu trúc (JSON, video, hình ảnh).
+Ứng dụng yêu cầu tốc độ cao, đặc biệt là trong thời gian thực.
+Khi cần mở rộng cơ sở dữ liệu dễ dàng (horizontal scaling).
